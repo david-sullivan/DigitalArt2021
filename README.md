@@ -5,13 +5,13 @@ An introduction to programming for digital art
 
 ## Syllabus
 General introduction to programming using Processing\
-https://processing.org/
+https://processing.org/  
 Programming using game engines, in this case Unity\
-https://unity.com/
+https://unity.com/  
 Interaction and sensors, with Touchdesigner\
-https://derivative.ca/download
+https://derivative.ca/download  
 Making things work together\
 
 ## Resources:
-https://github.com/terkelg/awesome-creative-coding
+https://github.com/terkelg/awesome-creative-coding  
 
