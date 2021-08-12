@@ -4,7 +4,7 @@ An introduction to programming for digital art
 ## Office Hours
 I am available generally before and after class. Otherwise, please make an appointment with me.
 
-## Syllabus
+## [Syllabus](https://github.com/david-sullivan/LoyolaDigitalArt2021/wiki/Syllabus)
 
 ## Wiki
 
