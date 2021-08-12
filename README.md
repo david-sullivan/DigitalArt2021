@@ -1,6 +1,9 @@
 # Loyola VISA-A373-W01 INTERACTIVE & ELECTRONIC MEDIA I 2021
 An introduction to programming for digital art
 
+Computer Lab: Monroe Hall 151/
+Class Times: MW 9:30-12
+
 ## Office Hours
 I am available generally before and after class. Otherwise, please make an appointment with me.
 
