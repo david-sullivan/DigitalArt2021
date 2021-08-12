@@ -1,4 +1,4 @@
-# Loyola Introduction to Digital Art 2021
+# Loyola VISA-A373-W01 INTERACTIVE & ELECTRONIC MEDIA I 2021
 An introduction to programming for digital art
 
 ## Office Hours
