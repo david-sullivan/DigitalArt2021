@@ -6,7 +6,7 @@ I am available generally before and after class. Otherwise, please make an appoi
 
 ## [Syllabus](https://github.com/david-sullivan/LoyolaDigitalArt2021/wiki/Syllabus)
 
-## Wiki
+## [Wiki](https://github.com/david-sullivan/LoyolaDigitalArt2021/wiki/Loyola-Interactive-Art-Wiki-Home)
 
 General introduction to programming using Processing\
 https://processing.org/  
