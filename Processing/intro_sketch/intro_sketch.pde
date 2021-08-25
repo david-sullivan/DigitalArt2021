@@ -1,14 +1,16 @@
-////////////comments are important!////////////////
+////////////comments are important!\\\\\\\\\\\\\\\\\
 /*
 blocks of code are good for lots of comments
 */
 
-//spelling and punction are important
-//debug log is important (try removing a semicolon or misspelling)
-//order of commands is important (try switching lines around)
+//spelling and punction
+//order of commands (try switching lines around)
+//use the debug log (try removing a semicolon or misspelling)
+
 //width and height are built-in variables
 //variables can be used as nicknames and to create responsive designs
 //color is 256 values, 0-based (0 = black, 255 = white)
+
 size(300, 300);
 background(255);
 noStroke();
