@@ -1,9 +1,9 @@
 /*
 setup and draw
  setup happens once at the beginning
- use to setup size framerate, background, variables
+ use to setup size framerate, background, variables initial values
  draw happens every frame
- change variables or arguments and draw
+ use to change variables or arguments and draw
  
  they each return nothing (void)
  */

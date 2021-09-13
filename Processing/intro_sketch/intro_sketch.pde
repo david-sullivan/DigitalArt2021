@@ -10,6 +10,8 @@ blocks of code are good for lots of comments
 //width and height are built-in variables
 //variables can be used as nicknames and to create responsive designs
 //color is 256 values, 0-based (0 = black, 255 = white)
+//color is set with 3 values for RGB, plus an optional one for transparency/alpha
+//if the 3 alues are the same, you can just use one argument(resulting in grey)
 
 size(300, 300);
 background(255);
