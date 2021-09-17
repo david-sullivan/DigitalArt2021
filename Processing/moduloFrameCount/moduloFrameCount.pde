@@ -1,6 +1,6 @@
 //add images
-PImage img1;
-PImage img2;
+PImage img1;//gear
+PImage img2;//virus
 
 //this is an array ot group of colors
 color[] colorList = {
@@ -24,6 +24,7 @@ void setup() {
 
   background(0);
 
+//initialize variables
   w = width;
   h = height;
   img1 = loadImage("gear_red.png");
@@ -48,12 +49,12 @@ void draw() {
     stroke(0, 10);
     //toggle between circle and square
     if (toggle == true){  
-      ellipse(x, y, d, d);
-      image(img1, x, y, d, d);
+      //ellipse(x, y, d, d);
+      image(img1, x, y, d, d); // 2 or 4 values x, y, and then width and heigth
       toggle = !toggle; //switches the toggle variable
     }
     else{                     
-      rect(x, y, d, d);
+      //rect(x, y, d, d);
       image(img2, x, y, d, d);
       toggle = !toggle;
     }
