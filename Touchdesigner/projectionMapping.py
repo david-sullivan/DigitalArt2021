@@ -6,3 +6,5 @@ In the Palette Browser, select mapping.
 The 3 most used are camSchnapper, Kantan, and stoner.
 Drag the one you want to use (or investigate) into
 your project.
+
+https://www.youtube.com/watch?v=mTH7ZB4x47Q&t=8s&ab_channel=TheInteractive%26ImmersiveHQ
