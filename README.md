@@ -28,7 +28,7 @@ Don’t Take Anything Personally.\
 Don’t Make Assumptions.\
 Always Do Your Best.
 
-–Don Miguel Ruiz, The Four Agreement
+–Don Miguel Ruiz, The Four Agreements
 
 ## Resources:
 https://github.com/terkelg/awesome-creative-coding  
