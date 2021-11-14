@@ -20,6 +20,16 @@ Interaction and sensors, with Touchdesigner\
 https://derivative.ca/download  
 Making some of these things work together.
 
+## How
+The Four Agreements
+
+Be Impeccable With Your Word.\
+Don’t Take Anything Personally.\
+Don’t Make Assumptions.\
+Always Do Your Best.
+
+–Don Miguel Ruiz, The Four Agreement
+
 ## Resources:
 https://github.com/terkelg/awesome-creative-coding  
 
